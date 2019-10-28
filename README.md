@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/serko/Hacknado%20Projects/_apis/build/status/pipelines-java?branchName=master)](https://dev.azure.com/serko/Hacknado%20Projects/_build/latest?definitionId=752&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
